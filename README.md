@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a student, tech enthusiast and a aspiring SecDevOps Engineer<br><br></p>
+<h3 align="left">I'm a student, tech enthusiast and a aspiring SecDevOps Engineer<br><br></h3>
 
 ###
 
