@@ -72,16 +72,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irl-jacob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irl-jacob&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph"  />
-</div>
-
-###
